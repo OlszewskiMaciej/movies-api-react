@@ -1,3 +1,5 @@
+You can check project on [Netlify](https://keen-borg-ecf42c.netlify.app/).
+
 ![Example](https://github.com/OlszewskiMaciej/movies-api-react/blob/master/public/example.png)
 ![ExamplePopup](https://github.com/OlszewskiMaciej/movies-api-react/blob/master/public/example-popup.png)
 
